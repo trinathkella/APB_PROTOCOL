@@ -19,7 +19,7 @@ APB is best suited for interfacing with peripherals such as:
 - Watchdog timers
 
 ## APB Transfer Phases
-Each APB transfer occurs in ## Two phases:
+Each APB transfer occurs in **Two phases**:
 
 ### 1.Setup Phase
 - Master sets up:
